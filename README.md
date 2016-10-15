@@ -1,0 +1,1 @@
+# LaTex Makefile Template
